@@ -1,6 +1,6 @@
 
 {
-  "name":"BWM-XMD",
+  "name":"BOYKA",
   "description":"Best whatsapp bot developed by Ibrahim adams",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/h2ydge.jpg",
@@ -42,7 +42,7 @@
     {
       "description":"Enter yes for your bot to auto reply message when offline",
       "value":"no",
-      "required":false
+      "required":true
     },
 "AUTO_BIO":
     {
@@ -78,7 +78,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BWM-XMD",
+      "value":"BOYKA",
       "required":false
 
     } ,
@@ -108,7 +108,7 @@
     "NUMERO_OWNER":
     {
       
-    "description":"Enter here the number that is hosting the bot Eg, 254xxxxxxx",   
+    "description":"Enter here the number that is hosting the bot Eg, 254748386259",   
       "value":"",
     "required":true
       
@@ -121,7 +121,7 @@
     "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
   },
     "SESSION_ID":{
-    "description":"put your session ID , the code you received from from ibrahim adams site",   
+    "description":"put your session ID , the code you received from from Boyka site",   
       "value":"",
      "required":true
   },
@@ -145,7 +145,7 @@
   "ANTIDELETE" : {
     "description": "if you want to enable anti delete message put yes else put no",
     "value": "yes",
-        "required": false
+        "required": true
   }
   },
 
